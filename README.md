@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+Make sure you have the backend server running locally to get this to work. To run the backend server, navigate to the stockanalyzer repository and run ./gradlew run.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
